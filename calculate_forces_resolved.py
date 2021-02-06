@@ -161,7 +161,7 @@ plot_vector(J, I, 'purple', '$R_J$')
 
 # calculate force magnitudes
 forces,legends = susp_forces(coordinates, force_vector) 
-#print(results)
+#print(forces)
 
 # calculate resolved forces using ( Force Along Axis = Magnitude of Force * Cos(Angle of Vector w.r.t Axis) )
 FG = forces[0] * angles[0]
