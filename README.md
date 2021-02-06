@@ -1,5 +1,6 @@
 # Utilities for force analysis
 calculate_suspension_forces.py -  code for force calculations on a suspension system
+calculate_forces_resolved.py - code for x,y,z resolved forces on a suspension system
 
 ##### USAGE
 1. Make sure you have all required packages installed
